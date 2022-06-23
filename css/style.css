@@ -2899,6 +2899,8 @@ section.about-cta {
 
 .culture-video {
     text-align: right;
+
+
 }
 
 .culture-video img {
@@ -4277,4 +4279,28 @@ h2.color-title {
 
 .my-bg-last ul li  {
     color: white;
+}
+
+
+.culture h2.culture-title2 {
+    font-size: 28px;
+    font-family: "Roboto";
+    color: #093EB6;
+    font-weight: bold;
+    line-height: 1;
+    text-align: center;
+    margin: 0 0 15px 0;
+}
+
+.space-image {
+    margin-bottom: 20px;
+}
+
+.centralizeme {
+    text-align: center;
+}
+
+.my-hr {
+    background-color: red;
+    width: 20%;
 }
